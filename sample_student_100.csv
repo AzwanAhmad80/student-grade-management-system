@@ -1,0 +1,47 @@
+student_id,first_name,last_name,email,phone,department,enrollment_date,status,course_name,course_code,credits,grade,score,semester,academic_year
+
+STU2025001,Ali,Ahmad,ali@email.com,0123456789,Information Technology,2025-01-10,Active,Database Systems,CS2201,3,A,95,Semester 1,2025
+
+STU2025001,Ali,Ahmad,ali@email.com,0123456789,Information Technology,2025-01-10,Active,Programming Fundamentals,CS1101,3,B+,88,Semester 1,2025
+
+STU2025002,Siti,Rahman,siti@email.com,0134567890,Computer Science,2025-01-10,Active,Software Engineering,SE2201,3,A-,90,Semester 1,2025
+
+STU2025003,Ahmad,Hassan,ahmad.hassan@university.edu.my,0123456003,Information Technology,2025-01-10,Active,Database Systems,CS2201,3,A,94,Semester 1,2025
+STU2025004,Nurul,Aminah,nurul.aminah@university.edu.my,0123456004,Computer Science,2025-01-10,Active,Software Engineering,SE2201,3,B+,88,Semester 1,2025
+STU2025005,Muhammad,Ismail,muhammad.ismail@university.edu.my,0123456005,Business Information Systems,2025-01-10,Active,Management Information Systems,MIS2101,3,A-,90,Semester 1,2025
+STU2025006,Aisyah,Karim,aisyah.karim@university.edu.my,0123456006,Cyber Security,2025-01-10,Active,Network Security,CS3301,3,A,95,Semester 1,2025
+STU2025007,Farid,Ali,farid.ali@university.edu.my,0123456007,Information Technology,2025-01-10,Active,Web Development,IT2202,3,B,82,Semester 1,2025
+STU2025008,Sarah,Yusof,sarah.yusof@university.edu.my,0123456008,Computer Science,2025-01-10,Active,Data Structures,CS2102,3,A-,91,Semester 1,2025
+STU2025009,Hafiz,Rahman,hafiz.rahman@university.edu.my,0123456009,Cyber Security,2025-01-10,Active,Ethical Hacking,CS3402,3,B+,87,Semester 1,2025
+STU2025010,Nadia,Hashim,nadia.hashim@university.edu.my,0123456010,Software Engineering,2025-01-10,Active,Object Oriented Programming,SE2102,3,A,93,Semester 1,2025
+STU2025011,Daniel,Tan,daniel.tan@university.edu.my,0123456011,Computer Science,2025-01-10,Active,Artificial Intelligence,CS3501,3,B+,89,Semester 1,2025
+STU2025012,Amirul,Zainal,amirul.zainal@university.edu.my,0123456012,Information Technology,2025-01-10,Active,Cloud Computing,IT3301,3,A-,90,Semester 1,2025
+STU2025013,Siti,Nabila,siti.nabila@university.edu.my,0123456013,Cyber Security,2025-01-10,Active,Cryptography,CS3403,3,A,96,Semester 1,2025
+STU2025014,Jason,Lim,jason.lim@university.edu.my,0123456014,Software Engineering,2025-01-10,Active,System Analysis,SE3101,3,B,83,Semester 1,2025
+STU2025015,Fatin,Aziz,fatin.aziz@university.edu.my,0123456015,Business Information Systems,2025-01-10,Active,Enterprise Systems,MIS3201,3,A-,91,Semester 1,2025
+STU2025016,Zulhilmi,Osman,zulhilmi.osman@university.edu.my,0123456016,Information Technology,2025-01-10,Active,Computer Networks,IT2301,3,B+,88,Semester 1,2025
+STU2025017,Shahira,Latif,shahira.latif@university.edu.my,0123456017,Computer Science,2025-01-10,Active,Machine Learning,CS4501,3,A,94,Semester 1,2025
+STU2025018,Rizal,Samad,rizal.samad@university.edu.my,0123456018,Cyber Security,2025-01-10,Active,Digital Forensics,CS4401,3,B+,86,Semester 1,2025
+STU2025019,Nur,Aina,nur.aina@university.edu.my,0123456019,Software Engineering,2025-01-10,Active,Software Testing,SE3202,3,A-,90,Semester 1,2025
+STU2025020,Adam,Lee,adam.lee@university.edu.my,0123456020,Information Technology,2025-01-10,Active,Database Systems,CS2201,3,B,84,Semester 1,2025
+STU2025021,Hanis,Ahmad,hanis.ahmad@university.edu.my,0123456021,Computer Science,2025-01-10,Active,Data Structures,CS2102,3,A,95,Semester 1,2025
+STU2025022,Faizal,Hamid,faizal.hamid@university.edu.my,0123456022,Cyber Security,2025-01-10,Active,Network Security,CS3301,3,B+,89,Semester 1,2025
+STU2025023,Nurul,Akmal,nurul.akmal@university.edu.my,0123456023,Software Engineering,2025-01-10,Active,Object Oriented Programming,SE2102,3,A-,91,Semester 1,2025
+STU2025024,Kevin,Ng,kevin.ng@university.edu.my,0123456024,Information Technology,2025-01-10,Active,Cloud Computing,IT3301,3,A,94,Semester 1,2025
+STU2025025,Sabrina,Khalid,sabrina.khalid@university.edu.my,0123456025,Business Information Systems,2025-01-10,Active,Enterprise Systems,MIS3201,3,B+,87,Semester 1,2025
+STU2025026,Azri,Mokhtar,azri.mokhtar@university.edu.my,0123456026,Cyber Security,2025-01-10,Active,Ethical Hacking,CS3402,3,A,95,Semester 1,2025
+STU2025027,Melissa,Chong,melissa.chong@university.edu.my,0123456027,Computer Science,2025-01-10,Active,Artificial Intelligence,CS3501,3,B+,88,Semester 1,2025
+STU2025028,Haziq,Rosli,haziq.rosli@university.edu.my,0123456028,Information Technology,2025-01-10,Active,Web Development,IT2202,3,A-,90,Semester 1,2025
+STU2025029,Nurin,Saleh,nurin.saleh@university.edu.my,0123456029,Software Engineering,2025-01-10,Active,System Analysis,SE3101,3,B,82,Semester 1,2025
+STU2025030,Raymond,Teoh,raymond.teoh@university.edu.my,0123456030,Computer Science,2025-01-10,Active,Machine Learning,CS4501,3,A,96,Semester 1,2025
+STU2025031,Aiman,Zulkifli,aiman.zulkifli@university.edu.my,0123456031,Cyber Security,2025-01-10,Active,Cryptography,CS3403,3,A-,91,Semester 1,2025
+STU2025032,Syafiqah,Hussein,syafiqah.hussein@university.edu.my,0123456032,Information Technology,2025-01-10,Active,Computer Networks,IT2301,3,B+,87,Semester 1,2025
+STU2025033,Farhana,Jaafar,farhana.jaafar@university.edu.my,0123456033,Business Information Systems,2025-01-10,Active,Management Information Systems,MIS2101,3,A,93,Semester 1,2025
+STU2025034,Jonathan,Wong,jonathan.wong@university.edu.my,0123456034,Software Engineering,2025-01-10,Active,Software Testing,SE3202,3,B+,88,Semester 1,2025
+STU2025035,Khairul,Anuar,khairul.anuar@university.edu.my,0123456035,Cyber Security,2025-01-10,Active,Digital Forensics,CS4401,3,A,94,Semester 1,2025
+STU2025036,Athirah,Mahmud,athirah.mahmud@university.edu.my,0123456036,Computer Science,2025-01-10,Active,Data Structures,CS2102,3,B+,86,Semester 1,2025
+STU2025037,Zack,Ho,zack.ho@university.edu.my,0123456037,Information Technology,2025-01-10,Active,Database Systems,CS2201,3,A-,90,Semester 1,2025
+STU2025038,Nurul,Huda,nurul.huda@university.edu.my,0123456038,Software Engineering,2025-01-10,Active,Object Oriented Programming,SE2102,3,A,95,Semester 1,2025
+STU2025039,Firdaus,Majid,firdaus.majid@university.edu.my,0123456039,Cyber Security,2025-01-10,Active,Network Security,CS3301,3,B,84,Semester 1,2025
+STU2025040,Alicia,Yap,alicia.yap@university.edu.my,0123456040,Computer Science,2025-01-10,Active,Artificial Intelligence,CS3501,3,A-,91,Semester 1,2025
+STU2025099,Mohd,Faiz,mohd.faiz@university.edu.my,0123456099,Information Technology,2025-01-10,Active,Cloud Computing,IT3301,3,A,94,Semester 1,2025
